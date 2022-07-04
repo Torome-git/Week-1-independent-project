@@ -6,3 +6,8 @@
     background-color: #FAFAFA;
     font-family: 'Space Grotesk', sans-serif;
   }
+  nav{
+    height: 80px;
+    width: 100%;
+    border-bottom: 1px solid #eae8e4;
+  }
