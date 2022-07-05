@@ -92,4 +92,199 @@
     color: #0F298B;
     padding: 15px;
   }
+  .filters{
+    margin: 20px 200px 0 200px;
+    text-align:center;
+    background-color:white;
+    border-radius: 15px;
+  }
+  .filters ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+  }
+  .products{
+    padding: 30px 100px;
+    margin-top: 40px;
+  }
+  .products h3{
+    color: #0F298B;
+    font-size: 30px;
+  }
+  .center{
+    text-align: center;
+  }
+  .center p{
+    font-size: 23px;
+  }
+  .process{
+    display: inline-block;
+    margin-top: 50px;
+    padding-top: 30px;
+  }
+  .process div img{
+    height: 80px;
+    display: flex;
+    padding: 10px;
+    margin:0 80px 25px 80px;
+  }
+  .process div{
+    width: 250px;
+    display: inline-block;
+    padding: 0 45px;
+    padding-bottom: 40px;
+    margin-left: 15px;
+    background-color: white;
+  }
+  div h4{
+    text-align: center;
+  }
+  .second_mansion{
+    height: 330px;
+    display: inline-block;
+    margin-right: 20px;
+  }
+  .why_content{
+    display:inline-block;
+    max-height: 50%;
+    padding: 10px;
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 500px;
+    float: right;
+  }
+  .why_content h3{
+    color: #0F298B;
+    font-size: 30px;
+  }
+  .why_content p{
+    font-size: 20px;
+  }
   
+  .properties ul{
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: 600;
+    margin:30px 0;
+    width: 50%;
+    display:inline-block;
+  }
+  .properties ul:nth-child(2){
+    float: right;
+  }
+  .why{
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+  }
+  .properties i{
+    color: #0F298B;
+  }
+  .featured{
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top: 50px;
+  }
+  .featured h3{
+    color: #0F298B;
+    font-size: 30px;
+    text-align: center;
+  }
+  .featured p{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .featured_properties img{
+    height: 155px;
+    display:inline-block;
+    float: left;
+    padding-bottom: 60px;
+    margin-bottom: 30px;
+  }
+  .palace img{
+    margin-right: 60px;
+  }
+  .rory img{
+    margin-right: 60px;
+  }
+  /* .featured_properties ul{
+  list-style-type: none;
+  width: 345px;
+  display:inline-block;
+}
+.feaured_properties ul:nth-child(2){
+  float: right;
+  margin-right: 50px; */
+
+
+/* Esteemed Customers Section */
+.customers{
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-bottom: 200px;
+  }
+  .customers h3{
+    color: #0F298B;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+  }
+  .customers p{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .alex h4{
+    text-align: left;
+  }
+  .alex p{
+    text-align: left;
+  }
+  .alex{
+    background-color: white;
+    border-radius: 10px;
+    width: 250px;
+    display: inline-block;
+    padding: 20px;
+    text-align:left;
+    margin: 30px;
+  }
+  .button button{
+    float: right;
+  }
+  
+  
+  /* Footer Section */
+  .footer{
+    padding-left: 100px;
+    padding-right: 100px;
+    color: white;
+    background-color: #0F298B;
+  }
+  .footer ul{
+    list-style-type: none;
+  }
+  .estate{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 45px 50px 10px;
+  }
+  .property{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 15px;
+  }
+  .about{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 15px;
+  }
+  .resources{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 15px;
+  }
+  .estate h3{
+    font-family: 'Oleo Script', cursive;
+  }
